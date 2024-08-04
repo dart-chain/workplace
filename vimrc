@@ -12,7 +12,8 @@ call plug#end()
 
 " Indention options
 set autoindent
-set expandtab set filetype
+set expandtab 
+set filetype
 set shiftround
 set shiftwidth=4
 set smarttab
